@@ -1,0 +1,13 @@
+.navbar-nav>div {
+    cursor: pointer;
+}
+
+.navbar-nav>div :hover {
+    background-color: secondary;
+}
+
+@media (min-width: 1200px) {
+    .wl-50 {
+        width: 50%;
+    }
+}
